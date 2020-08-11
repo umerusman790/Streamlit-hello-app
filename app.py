@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 html_temp = """
     <div style="background-color:orange;padding:10px">
